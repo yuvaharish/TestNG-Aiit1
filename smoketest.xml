@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="4">
+  <test name="Test">
+    <classes>
+      <class name="execuationpack.SkipTestCase"/>
+      <class name="execuationpack.TestSample2"/>
+       <class name="execuationpack.DependencisManagement"/>
+       <class name="execuationpack.Setpriority"/>
+       
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
